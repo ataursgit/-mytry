@@ -1,0 +1,19 @@
+{
+  "name": "dupur_bela",
+  "version": "1.0.0",
+  "description": "dupur belar chesta",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "dupur",
+    "bela"
+  ],
+  "author": "Ataur Rahaman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
